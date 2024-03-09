@@ -1,0 +1,19 @@
+Components Required:
+
+1. Acrylic sheets
+2. Ultrasonic Sensor
+3. Arduino Nano
+4. 5v 1 channel Relay module
+5. 5v submersible pump with water tube
+6. led with 330 ohm resistor
+7. 5v Power supply
+8. Container for Sanitizer
+
+Working-
+
+The ultrasonic sensors of the automatic hand sanitizer dispenser detect the obstacle in front of it. 
+When hands are placed in the front ultrasonic sensor, the ultrasound quickly fluctuates. 
+This fluctuation causes a voltage variation that can be detected by microcontroller such as arduino which then triggers the pump to activate and dispense the designated amount of sanitizer. 
+Led is also triggered on and off with pump for indication.
+
+
