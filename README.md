@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Automatic-Hand-Sanitizer-Machine</h1>
-  <a href="https://sites.google.com/view/rhythmshah/automatic-hand-sanitizer-machine?authuser=0"><b>Acrylic base Hand Sanitizer Machine</b></a>
+  <a href="https://sites.google.com/view/rhythmshah/automatic-hand-sanitizer-machine?authuser=0"><b>Acrylic base Hand Sanitizer Machine</b></a><br>
   <a href="https://sites.google.com/view/rhythmshah/low-cost-automatic-hand-sanitizer-machine?authuser=0"><b>Low Cost Sanitizer Machine</b></a>
 </div>
 
