@@ -23,6 +23,24 @@
 
 The ultrasonic sensors of the automatic hand sanitizer dispenser detect the obstacle in front of it. When hands are placed in the front ultrasonic sensor, the ultrasound quickly fluctuates. This fluctuation causes a voltage variation that can be detected by microcontroller such as arduino which then triggers the pump to activate and dispense the designated amount of sanitizer. Led is also triggered on and off with pump for indication.
 
+## **Features-**
+
+1. 350 ml of sanitizer can be stored
+2. Works on 1A 12v dc
+3. Fast response
+4. No wastage of sanitizer
+5. Acrylic casing
+6. Robust design
+7. Easy to handle and user friendly
+8. Sensor based approach
+9. Detects hand in less than a second.
+
+## **Key Skills-**
+
+- ➤ Arduino programming
+- ➤ Tinkercad for 3d designing
+- ➤ Circuit simulation and designing tool- Proteus
+  
 
 <table align="center">
   <tr>
