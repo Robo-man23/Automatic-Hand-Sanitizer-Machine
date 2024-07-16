@@ -35,11 +35,6 @@ The ultrasonic sensors of the automatic hand sanitizer dispenser detect the obst
 8. Sensor based approach
 9. Detects hand in less than a second.
 
-## **Key Skills-**
-
-- ➤ Arduino programming
-- ➤ Tinkercad for 3d designing
-- ➤ Circuit simulation and designing tool- Proteus
   
 
 <table align="center">
@@ -64,3 +59,10 @@ The ultrasonic sensors of the automatic hand sanitizer dispenser detect the obst
     <td>Handling of outlet tube for proper flow</td>
   </tr>
 </table>
+
+
+## **Key Skills-**
+
+- ➤ Arduino programming
+- ➤ Tinkercad for 3d designing
+- ➤ Circuit simulation and designing tool- Proteus
